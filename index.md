@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [General Obsidian SDL 2 C++](/sample_page)
-<img src="images/gen obsidianport.jpg?raw=true"/>
+<img src="images/gen_obsidianport.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
